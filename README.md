@@ -48,7 +48,7 @@ if you want to change user password just enter the following command
 
 
 
-Credits - MatheuZ Security (Thanks to him, i was able to make this repo)
+**CREDITS - MatheuZ Security (original author)**
 Credits - TryHackMe KOTH
 
 my discord is nostalgia#3903 
