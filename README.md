@@ -1,4 +1,4 @@
-# KOTH-TryHackMe-Tips-Tricks
+# TryHackMe KOTH Cheatsheet
 
 If you're looking for root permissions
 
